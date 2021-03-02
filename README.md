@@ -7,4 +7,8 @@ Open the Binder link above or click here [![Binder](https://mybinder.org/badge_l
 Once loaded in Jupyter environment. <br> <br>On top menu click on Kernal > Select Restart and Run All. All cells should automatically load.
 <br><br>
 
-Optional <br>To access notebook on Google Colab visit https://bit.ly/30hw0p7
+
+Data Credits-<br>
+1) DIVVY Chicago<br>
+2) 2)CMAP<br>
+3) 3)U.S Census Bureau
