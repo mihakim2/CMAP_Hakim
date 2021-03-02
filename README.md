@@ -9,6 +9,6 @@ Once loaded in Jupyter environment. <br> <br>On top menu click on Kernal > Selec
 
 
 Data Credits-<br>
-1) DIVVY Chicago<br>
-2) 2)CMAP<br>
-3) 3)U.S Census Bureau
+1) DIVVY Chicago
+2) CMAP
+3) U.S Census Bureau
